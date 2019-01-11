@@ -1,0 +1,21 @@
+body
+{
+    color: black;
+    font: 16px;
+}
+#header
+{
+    background-color: lightblue;
+}
+#menu
+{
+    background-color: rgb(253, 57, 57)
+}
+#content
+{
+    background-color: white;
+}
+#footer
+{
+    background-color: gray;
+}
